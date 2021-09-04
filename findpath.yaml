@@ -1,0 +1,7 @@
+train: /content/findpath/images/train/ 
+val: /content/findpath/images/train/
+
+# number of classes
+nc: 1
+# class names
+names: [ 'pole' ]
